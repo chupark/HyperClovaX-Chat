@@ -1,4 +1,4 @@
-# 하클 vs GPT 비교를 위한 간단한 Streamlit
+# HyperClova X 인퍼런스를 위한 테스트 도구
 
 ## 1. Playground
 모델을 선택하여 간단한 대화 테스트 가능
@@ -27,10 +27,10 @@ $ . .venv/bin/activate
 
 <br>
 
-## 2. 대화 자동 비교
+## 3. 대화 자동 비교
 TBH
 
 <br>
 
-## 3. RAG
+## 4. RAG
 TBH
